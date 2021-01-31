@@ -20,14 +20,14 @@ h2 {
 }
 a {
     text-decoration: none;
-    color: black;
+    color: #BEE3DB;
 }
 
 /* ***** NAVBAR ***** */
 
 nav {
     overflow: hidden;
-    background-color: #BCBCBC;
+    background-color: #555B6E;
     position: fixed;
     width: 100%;
     opacity: 0.9;
@@ -52,14 +52,14 @@ header li a {
 
 #imagePrincipale {
     padding-top: 60px;
-    background: url(media/image-principale.JPG) no-repeat fixed 50% 50%;
+    background: url(media/image-principale-2.JPG) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 799px;
 }
 h1 {
     font-family: 'Lobster', cursive;
     text-align: center;
-    color: #818181;
+    color: #BEE3DB;
     font-size: 6em;
     margin-top: 175px;
     text-shadow: 6px 4px 11px #140044;
@@ -73,14 +73,14 @@ h1 {
 }
 h3 {
     text-align: center;
-    color: #818181;
+    color: #BEE3DB;
     font-size: 3em;
     text-shadow: 6px 4px 8px #140044;
 }
 
 /* ***** PRESENTATION ***** */
 #presentation {
-    background-color: #99DDFF;
+    background-color: #BEE3DB;
 }
 
 #textIntro {
